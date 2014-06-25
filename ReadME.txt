@@ -1,0 +1,1 @@
+This program is an attempt at the Epocrates Puzzle where a word is to be ranked alphabetically amongst the letters it contains.
